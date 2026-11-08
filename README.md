@@ -1,8 +1,28 @@
+<!-- datasheet:banner -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
+    <img src=".github/assets/banner-light.svg" alt="Solder Reflow Pad: A KiCad hotplate PCB for reflowing SMD parts and prototyping on the bench, with a custom silkscreen artwork layer." width="100%">
+  </picture>
+</p>
+<!-- /datasheet:banner -->
+
 # Solder Reflow Pad & Hotplate PCB (KiCad)
 
 A custom open-source KiCad printed circuit board designed for miniature SMD solder reflow, hotplate prototyping, and hardware assembly with custom top and bottom silkscreen artwork.
 
 ---
+
+<!-- datasheet:figure -->
+## At a glance
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/diagram-dark.svg">
+    <img src=".github/assets/diagram-light.svg" alt="Block diagram: power to heat to reflow" width="100%">
+  </picture>
+</p>
+<!-- /datasheet:figure -->
 
 ## 🛠️ Overview & Architecture
 
