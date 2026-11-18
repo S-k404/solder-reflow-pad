@@ -92,11 +92,11 @@ Power the pad with thick wire (16 to 18 AWG silicone) to keep the resistive loss
 
 ## Credit and origin
 
-This board is based on **John Bradnam's open-source SMD Reflow Hot Plate**, an ATtiny1614 hotplate: [project page on Hackster](https://www.hackster.io/john-bradnam/smd-reflow-hot-plate-new-version-edc02e). It came into KiCad from Eagle; the leftover references `U$1`, `U$2`, `U$3` and the `dummyfp` mounting holes are from that import. The KiCad project and the silkscreen artwork layer are mine. The original design stays under its own licence, which is on its project page.
+This board is based on **John Bradnam's open-source SMD Reflow Hot Plate**, an ATtiny1614 hotplate published under the **GPL-3.0-or-later** licence: [project page on Hackster](https://www.hackster.io/john-bradnam/smd-reflow-hot-plate-new-version-edc02e). It came into KiCad from Eagle; the leftover references `U$1`, `U$2`, `U$3` and the `dummyfp` mounting holes are from that import. The KiCad project and the silkscreen artwork layer are mine.
 
 ## License
 
-MIT. See [LICENSE](LICENSE). Anything that came from John Bradnam's design stays under that design's own licence.
+GPL-3.0-or-later (matching the upstream design). See [LICENSE](LICENSE).
 
 <!-- datasheet:footer -->
 ---
